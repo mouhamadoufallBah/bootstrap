@@ -1,0 +1,63 @@
+.active{
+    background-color: orange;
+}
+#image{
+    width: 70px;
+    height: 50px;
+}
+#pixelcave{
+    color: orange;
+}
+.couleur{
+    height: 25px;
+}
+#careeMeuve{
+    background-color: #9C58B3;
+}
+#carrerougee{
+    background-color: #e64a3b;
+}
+#careeVert{
+    background-color: #38D178;
+}
+#careeVertClair{
+    background-color: #A4D932;
+}
+#careeOrange{
+    background-color: #F29A1B;
+}
+.barre{
+    height: 80px;
+    width: 10px;
+}
+.notif-texte{
+    height: 80px;
+    width: 100%;
+
+}
+.notif{
+    width: 100%;
+}
+.texte-notif{
+    width: 400px;
+}
+.hauteur{
+    height: 100vh;
+}
+
+.bordure{
+    border-top: 7px solid #F29A1B;;
+}
+.bi-cup-fill{
+    /* border: ; */
+   font-size: 25px;
+   
+
+}
+
+.dash{
+    background-color: #f0f0f0;
+}
+.ligned{
+    background: color #f9f9f9;
+}
